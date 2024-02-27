@@ -14,7 +14,17 @@
 				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Pursuer_AIController.uasset",
 				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
 				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
-				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_GameOver.uasset"
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_GameOver.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Mortar.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Audio/Explosion.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarProjectile.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarShrapnel.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_EyeEnemy.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_Completion.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BP_LevelEnd.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Eye.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_EyeBlast.uasset",
+				"/Users/Freedom/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Audio/ExplosionNoise.uasset"
 			]
 		}
 	]
